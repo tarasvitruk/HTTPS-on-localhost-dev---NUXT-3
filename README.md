@@ -1,4 +1,4 @@
-# HTTPS on localhost dev NUXT 3
+# HTTPS on localhost:3000 dev NUXT 3
 HTTPS on localhost dev - NUXT 3
 
 1. Go to project main dir (frontend/);
